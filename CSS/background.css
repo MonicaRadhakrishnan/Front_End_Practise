@@ -1,0 +1,17 @@
+body{
+    background-image: url("Swiss.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+p{
+    background: linear-gradient(to top ,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1{
+    background: linear-gradient(to top,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}

@@ -1,0 +1,14 @@
+p{
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1{
+    border-top-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-left-width: 20px;
+    border-left-color: blue;
+}

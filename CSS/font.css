@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+h1{
+    color: black
+}
+
+p{
+     color: coral;
+    background-color: azure;
+    font-style:italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: bold;
+   text-decoration: wavy underline;
+}

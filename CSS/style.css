@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: deeppink
+}
+h1{
+    color: white
+}
+h2{
+    color: yellow
+}
+h3{
+    color: gold
+}
+p{
+    border: 0cqmax; 
+    color: coral;
+    background-color: azure;
+    font-style:italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}

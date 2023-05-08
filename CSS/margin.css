@@ -1,0 +1,25 @@
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 25px;
+    background-color: cornflowerblue;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 25px;
+    background-color: deeppink;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
